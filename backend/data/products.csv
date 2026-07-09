@@ -1,0 +1,31 @@
+product_id,name,category,brand,description
+1,iPhone 15,Electronics,Apple,Latest Apple smartphone with A16 Bionic chip.
+2,Samsung Galaxy S23,Electronics,Samsung,Flagship Samsung phone with high-res camera.
+3,Sony WH-1000XM5,Audio,Sony,Industry-leading noise-canceling headphones.
+4,MacBook Air M2,Laptops,Apple,Thinnest and lightest Apple laptop.
+5,Dell XPS 13,Laptops,Dell,High-performance Windows laptop with slim bezels.
+6,Sony PS5,Gaming,Sony,Next-gen gaming console.
+7,Nintendo Switch OLED,Gaming,Nintendo,Handheld gaming console with vivid OLED screen.
+8,Pixel 8 Pro,Electronics,Google,Google signature phone with advanced AI cameras.
+9,Logitech MX Master 3S,Accessories,Logitech,Wireless performance mouse for creators.
+10,Keychron K2,Accessories,Keychron,Mechanical keyboard for typing enthusiasts.
+11,Samsung TV Remote,Remotes,Samsung,Original Samsung Smart TV remote control.
+12,LG TV Remote,Remotes,LG,Universal LG TV remote with magic motion.
+13,Sony TV Remote,Remotes,Sony,Sony Bravia TV remote control.
+14,Mi TV Remote,Remotes,Xiaomi,Xiaomi Mi TV Bluetooth remote.
+15,Fire TV Stick Remote,Remotes,Amazon,Alexa Voice Remote for Fire TV.
+16,Universal Remote,Remotes,Generic,Universal remote control for all TVs.
+17,AC Remote Universal,Remotes,Generic,Universal AC remote for all air conditioners.
+18,Samsung 55 inch TV,Television,Samsung,Samsung Crystal 4K UHD Smart TV 55 inch.
+19,LG 43 inch TV,Television,LG,LG 43 inch Full HD Smart LED TV.
+20,Sony Bravia 65 inch,Television,Sony,Sony Bravia 65 inch 4K Ultra HD Smart TV.
+21,Mi TV 32 inch,Television,Xiaomi,Xiaomi Mi TV 32 inch HD Ready Smart TV.
+22,iPhone 14,Electronics,Apple,Apple iPhone 14 with A15 Bionic chip.
+23,Samsung Galaxy S24,Electronics,Samsung,Latest Samsung flagship with AI features.
+24,OnePlus 12,Electronics,OnePlus,OnePlus 12 flagship with Snapdragon 8 Gen 3.
+25,Realme GT 5,Electronics,Realme,Realme GT 5 with 240W fast charging.
+26,AirPods Pro 2,Audio,Apple,Apple AirPods Pro with USB-C and noise cancellation.
+27,Samsung Buds 2 Pro,Audio,Samsung,Samsung Galaxy Buds 2 Pro wireless earbuds.
+28,boAt Airdopes 141,Audio,boAt,boAt Airdopes 141 TWS earbuds.
+29,JBL Flip 6,Audio,JBL,JBL Flip 6 portable Bluetooth speaker.
+30,Sony WF-1000XM5,Audio,Sony,Sony WF-1000XM5 wireless noise canceling earbuds.

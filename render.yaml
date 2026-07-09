@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: insightcart-api
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    envVars:
+      - key: AI_PROVIDER
+        value: openai
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: PORT
+        value: "8000"

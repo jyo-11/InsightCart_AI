@@ -1,0 +1,91 @@
+product_id,product,seller,city,date,price,demand,festival,stock,volatility
+1,iPhone 15,Amazon,Hyderabad,2024-01-01,79900,high,None,50,0.02
+1,iPhone 15,Amazon,Hyderabad,2024-01-02,79000,high,None,48,0.02
+1,iPhone 15,Flipkart,Hyderabad,2024-01-01,80000,high,None,45,0.03
+1,iPhone 15,Flipkart,Hyderabad,2024-01-02,78500,high,None,42,0.03
+1,iPhone 15,Reliance Digital,Hyderabad,2024-01-01,81000,medium,None,30,0.01
+1,iPhone 15,Croma,Mumbai,2024-01-02,79500,medium,None,28,0.01
+2,Samsung Galaxy S23,Amazon,Delhi,2024-01-01,74999,high,None,40,0.02
+2,Samsung Galaxy S23,Flipkart,Delhi,2024-01-02,72999,high,None,38,0.02
+2,Samsung Galaxy S23,Samsung Store,Bangalore,2024-01-01,76999,medium,None,25,0.01
+3,Sony WH-1000XM5,Amazon,Mumbai,2024-01-01,29990,medium,None,30,0.02
+3,Sony WH-1000XM5,Flipkart,Mumbai,2024-01-02,28990,medium,None,28,0.02
+3,Sony WH-1000XM5,Croma,Delhi,2024-01-01,30990,low,None,15,0.01
+4,MacBook Air M2,Amazon,Delhi,2024-01-01,114900,medium,None,25,0.01
+4,MacBook Air M2,Flipkart,Delhi,2024-01-02,114000,medium,None,24,0.01
+4,MacBook Air M2,Croma,Mumbai,2024-01-01,116900,low,None,10,0.01
+4,MacBook Air M2,Reliance Digital,Bangalore,2024-01-02,115500,low,None,12,0.01
+5,Dell XPS 13,Amazon,Mumbai,2024-01-01,135000,low,None,15,0.02
+5,Dell XPS 13,Flipkart,Mumbai,2024-01-02,134000,low,None,14,0.02
+5,Dell XPS 13,Dell Store,Hyderabad,2024-01-01,139000,low,None,8,0.01
+6,Sony PS5,Amazon,Chennai,2024-01-01,54990,very high,None,5,0.10
+6,Sony PS5,Flipkart,Chennai,2024-01-02,54500,very high,None,4,0.10
+6,Sony PS5,Croma,Mumbai,2024-01-01,55990,high,None,8,0.08
+6,Sony PS5,Reliance Digital,Delhi,2024-01-02,54990,high,None,6,0.08
+7,Nintendo Switch OLED,Amazon,Hyderabad,2024-01-01,32000,medium,None,12,0.03
+7,Nintendo Switch OLED,Flipkart,Hyderabad,2024-01-02,31500,medium,None,10,0.03
+8,Pixel 8 Pro,Flipkart,Bangalore,2024-01-01,106990,medium,None,20,0.04
+8,Pixel 8 Pro,Flipkart,Bangalore,2024-01-02,105000,medium,None,18,0.04
+8,Pixel 8 Pro,Amazon,Delhi,2024-01-01,107990,medium,None,15,0.03
+9,Logitech MX Master 3S,Amazon,Hyderabad,2024-01-01,10995,medium,None,30,0.01
+9,Logitech MX Master 3S,Amazon,Hyderabad,2024-01-02,10500,medium,None,28,0.01
+10,Keychron K2,Meckeys,Hyderabad,2024-01-01,9500,medium,None,10,0.01
+10,Keychron K2,Amazon,Delhi,2024-01-02,9800,medium,None,8,0.01
+11,Samsung TV Remote,Amazon,Delhi,2024-01-01,299,high,None,100,0.05
+11,Samsung TV Remote,Flipkart,Delhi,2024-01-02,279,high,None,150,0.05
+11,Samsung TV Remote,Croma,Mumbai,2024-01-01,349,medium,None,50,0.03
+12,LG TV Remote,Amazon,Mumbai,2024-01-01,399,medium,None,80,0.04
+12,LG TV Remote,Flipkart,Mumbai,2024-01-02,349,medium,None,100,0.04
+12,LG TV Remote,Vijay Sales,Hyderabad,2024-01-01,379,low,None,30,0.02
+13,Sony TV Remote,Amazon,Chennai,2024-01-01,499,medium,None,60,0.03
+13,Sony TV Remote,Flipkart,Chennai,2024-01-02,449,medium,None,75,0.03
+13,Sony TV Remote,Croma,Bangalore,2024-01-01,549,low,None,25,0.02
+14,Mi TV Remote,Flipkart,Bangalore,2024-01-01,199,high,None,200,0.06
+14,Mi TV Remote,Amazon,Bangalore,2024-01-02,249,high,None,180,0.06
+14,Mi TV Remote,Mi Store,Delhi,2024-01-01,179,high,None,300,0.04
+15,Fire TV Stick Remote,Amazon,Delhi,2024-01-01,599,high,None,500,0.02
+15,Fire TV Stick Remote,Flipkart,Mumbai,2024-01-02,649,medium,None,100,0.03
+16,Universal Remote,Amazon,Hyderabad,2024-01-01,149,high,None,1000,0.08
+16,Universal Remote,Flipkart,Hyderabad,2024-01-02,129,high,None,800,0.08
+16,Universal Remote,Meesho,Delhi,2024-01-01,99,very high,None,2000,0.10
+17,AC Remote Universal,Amazon,Chennai,2024-01-01,249,medium,None,300,0.05
+17,AC Remote Universal,Flipkart,Chennai,2024-01-02,199,medium,None,400,0.05
+17,AC Remote Universal,Meesho,Mumbai,2024-01-01,149,high,None,800,0.07
+18,Samsung 55 inch TV,Amazon,Mumbai,2024-01-01,42990,medium,None,30,0.03
+18,Samsung 55 inch TV,Flipkart,Mumbai,2024-01-02,41990,medium,None,35,0.03
+18,Samsung 55 inch TV,Reliance Digital,Delhi,2024-01-01,44990,low,None,15,0.02
+18,Samsung 55 inch TV,Croma,Bangalore,2024-01-02,43490,low,None,20,0.02
+19,LG 43 inch TV,Amazon,Delhi,2024-01-01,26990,medium,None,40,0.03
+19,LG 43 inch TV,Flipkart,Delhi,2024-01-02,25990,medium,None,50,0.03
+19,LG 43 inch TV,Vijay Sales,Mumbai,2024-01-01,27490,low,None,20,0.02
+20,Sony Bravia 65 inch,Amazon,Bangalore,2024-01-01,89990,low,None,10,0.02
+20,Sony Bravia 65 inch,Flipkart,Bangalore,2024-01-02,87990,low,None,12,0.02
+20,Sony Bravia 65 inch,Croma,Chennai,2024-01-01,91990,low,None,8,0.01
+21,Mi TV 32 inch,Flipkart,Hyderabad,2024-01-01,12999,high,None,100,0.04
+21,Mi TV 32 inch,Amazon,Hyderabad,2024-01-02,13499,high,None,80,0.04
+21,Mi TV 32 inch,Mi Store,Delhi,2024-01-01,12499,very high,None,200,0.03
+22,iPhone 14,Amazon,Mumbai,2024-01-01,59900,high,None,60,0.02
+22,iPhone 14,Flipkart,Mumbai,2024-01-02,58900,high,None,70,0.02
+22,iPhone 14,Croma,Delhi,2024-01-01,61900,medium,None,30,0.01
+23,Samsung Galaxy S24,Amazon,Delhi,2024-01-01,79999,high,None,40,0.03
+23,Samsung Galaxy S24,Flipkart,Delhi,2024-01-02,78999,high,None,45,0.03
+23,Samsung Galaxy S24,Samsung Store,Bangalore,2024-01-01,81999,medium,None,25,0.02
+24,OnePlus 12,Amazon,Hyderabad,2024-01-01,64999,high,None,50,0.03
+24,OnePlus 12,Flipkart,Hyderabad,2024-01-02,63999,high,None,55,0.03
+24,OnePlus 12,OnePlus Store,Mumbai,2024-01-01,64999,high,None,40,0.02
+25,Realme GT 5,Flipkart,Chennai,2024-01-01,33999,medium,None,60,0.04
+25,Realme GT 5,Amazon,Chennai,2024-01-02,34999,medium,None,50,0.04
+26,AirPods Pro 2,Amazon,Mumbai,2024-01-01,24900,high,None,40,0.02
+26,AirPods Pro 2,Flipkart,Mumbai,2024-01-02,24500,high,None,45,0.02
+26,AirPods Pro 2,Croma,Delhi,2024-01-01,26900,medium,None,20,0.01
+27,Samsung Buds 2 Pro,Amazon,Delhi,2024-01-01,11999,medium,None,50,0.03
+27,Samsung Buds 2 Pro,Flipkart,Delhi,2024-01-02,11499,medium,None,60,0.03
+28,boAt Airdopes 141,Amazon,Hyderabad,2024-01-01,1099,very high,None,500,0.06
+28,boAt Airdopes 141,Flipkart,Hyderabad,2024-01-02,999,very high,None,600,0.06
+28,boAt Airdopes 141,Meesho,Mumbai,2024-01-01,899,very high,None,1000,0.08
+29,JBL Flip 6,Amazon,Bangalore,2024-01-01,11999,medium,None,40,0.03
+29,JBL Flip 6,Flipkart,Bangalore,2024-01-02,11499,medium,None,50,0.03
+29,JBL Flip 6,Croma,Chennai,2024-01-01,12999,low,None,20,0.02
+30,Sony WF-1000XM5,Amazon,Chennai,2024-01-01,24990,medium,None,25,0.02
+30,Sony WF-1000XM5,Flipkart,Chennai,2024-01-02,24490,medium,None,30,0.02
+30,Sony WF-1000XM5,Croma,Mumbai,2024-01-01,26990,low,None,15,0.01
